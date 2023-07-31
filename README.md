@@ -52,9 +52,9 @@ To use these projects effectively, navigate to the folder of the project you wan
 
 Below is the list of JavaScript projects available in this repository:
 
-1. [Project 1 Name](link_to_project1_folder) - A brief description of what this project covers.
+1. Project 1: Countdown Timer - This project simply covers the date and time functions of javascript.
 
-2. [Project 2 Name](link_to_project2_folder) - A brief description of what this project covers.
+2. Project 2: Random Color Generator - This project is explains the use of Math Random function and also to navigate the clipboard.
 
 3. [Project 3 Name](link_to_project3_folder) - A brief description of what this project covers.
 
