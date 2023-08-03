@@ -56,9 +56,9 @@ Below is the list of JavaScript projects available in this repository:
 
 2. Project 2: Random Color Generator - This project is explains the use of Math Random function and also to navigate the clipboard.
 
-3. Project 3: Quiz App - This is project is developed to explain the concept of object and arrays.
+3. Project 3: Quiz App - This project is developed to explain the concept of object and arrays.
 
-4. [Project 4 Name](link_to_project4_folder) - A brief description of what this project covers.
+4. Project 4: Notes Taking App - This project explains the use of JSON and localstorage function of JavaScript.
 
 5. [Project 5 Name](link_to_project5_folder) - A brief description of what this project covers.
 
