@@ -60,7 +60,7 @@ Below is the list of JavaScript projects available in this repository:
 
 4. Project 4: Notes Taking App - This project explains the use of JSON and localstorage function of JavaScript.
 
-5. [Project 5 Name](link_to_project5_folder) - A brief description of what this project covers.
+5. Project 5: GitHub Profile App - This prject explains the use of API key.
 
 Please explore each project's folder to access the detailed documentation and code.
 
