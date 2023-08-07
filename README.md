@@ -7,9 +7,11 @@ Certainly! Here's a more complete README file in markdown format for the GitHub 
 
 ## Introduction
 
-Welcome to the JavaScript Projects repository! This collection of projects is designed to help you learn and practice JavaScript functions and coding. Each project provides hands-on exercises that cover various aspects of JavaScript, from basic functions to more advanced concepts.
+Welcome to the JavaScript Projects repository! This collection of projects is designed to help you learn
+and practice JavaScript functions and coding. Each project provides hands-on exercises that cover various aspects of JavaScript, from basic functions to more advanced concepts.
 
-Whether you are a beginner starting your JavaScript journey or an intermediate developer looking to reinforce your skills, these projects will provide you with valuable experience and insights into JavaScript programming.
+Whether you are a beginner starting your JavaScript journey or an intermediate developer looking to
+reinforce your skills, these projects will provide you with valuable experience and insights into JavaScript programming.
 
 ## Features
 
@@ -60,7 +62,7 @@ Below is the list of JavaScript projects available in this repository:
 
 4. Project 4: Notes Taking App - This project explains the use of JSON and localstorage function of JavaScript.
 
-5. [Project 5 Name](link_to_project5_folder) - A brief description of what this project covers.
+5. Project 5: GitHub Profile App - This prject explains the use of API key.
 
 Please explore each project's folder to access the detailed documentation and code.
 
