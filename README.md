@@ -8,7 +8,8 @@ Certainly! Here's a more complete README file in markdown format for the GitHub 
 ## Introduction
 
 Welcome to the JavaScript Projects repository! This collection of projects is designed to help you learn
-and practice JavaScript functions and coding. Each project provides hands-on exercises that cover various aspects of JavaScript, from basic functions to more advanced concepts.
+and practice JavaScript functions and coding. Each project provides hands-on exercises that cover various aspects of JavaScript,
+from basic functions to more advanced concepts.
 
 Whether you are a beginner starting your JavaScript journey or an intermediate developer looking to
 reinforce your skills, these projects will provide you with valuable experience and insights into JavaScript programming.
