@@ -67,6 +67,16 @@ Below is the list of JavaScript projects available in this repository:
 
 6. Project 6: Random Paragraph Generator - This project explains the concept of shuffling and arrays to string conversion.
 
+7. Project 7: Weather App - This project help to understand the more use of API.
+
+8. Project 8: To-do List - This project explains the DOM.
+
+9. Project 9: Password Generator - This project explains the random function in more details.
+
+10. Project 10: Image Slider - This project explains the trasition using JavaScript.
+
+11. Project 11: Movie Search App - This project explains the use of movie API and Search function.
+
 Please explore each project's folder to access the detailed documentation and code.
 
 ## Contributing
