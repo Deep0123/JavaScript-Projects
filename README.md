@@ -4,7 +4,6 @@ Certainly! Here's a more complete README file in markdown format for the GitHub 
 ```
 # JavaScript Projects for Learning JavaScript Functions
 
-
 ## Introduction
 
 Welcome to the JavaScript Projects repository! This collection of projects is designed to help you learn
