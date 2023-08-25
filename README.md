@@ -1,5 +1,6 @@
 # JavaScript-Projects
 Certainly! Here's a more complete README file in markdown format for the GitHub project that contains basic JavaScript projects for learning JavaScript functions and code:
+
 ```
 # JavaScript Projects for Learning JavaScript Functions
 
